@@ -1,2 +1,2 @@
-#quoteBOT
-get screenshots from revenge of the sith
+# auto responder
+auto responds to 'spam' discord messages
